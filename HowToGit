@@ -1,0 +1,11 @@
+How to update a file:
+
+git add FILENAME
+git commit -m "YOUR MESSAGE HERE"
+git push origin master
+
+How to fetch from Repo:
+-- Update your files first!
+
+git fetch OTHER_USERNAME
+git merge OTHER_USERNAME/master
